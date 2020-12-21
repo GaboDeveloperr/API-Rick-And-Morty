@@ -1,0 +1,51 @@
+.fondo {
+	background-color: #ff4757;
+	min-height: 200px;
+}
+
+h1 {
+	font-weight: 700
+}
+
+.fondo2 {
+	background-color: #2f3640
+}
+
+
+.bor {
+	border: 1px solid gray;
+}
+
+.bor:hover {
+	border: 1px solid #2e86de;
+}
+
+.bor:hover p.show {
+	color: white;
+}
+
+img.alt {
+	width: 120px;
+}
+
+.name {
+	color: #2e86de;
+	font-weight: 700;
+	font-size: 18px
+
+}
+
+.xtra {
+	color: #2e86de;
+	font-size: 17px;
+	box-shadow: 
+}
+
+.text {
+	color: #2e86de;
+}
+
+.fonts {
+	font-weight: 700;
+	font-size: 18px
+}
